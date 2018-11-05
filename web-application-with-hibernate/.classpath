@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="web"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hibernate 5.3.7-5.3.7"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysql:mysql-connector-java:5.1.10"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/user"/>
+	<classpathentry kind="lib" path="C:/Users/hifix/Downloads/lyyzoo-ssms-master/WebContent/WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="output" path="out/production/web-application-with-hibernate"/>
+</classpath>
