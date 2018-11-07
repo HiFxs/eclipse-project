@@ -830,3 +830,4 @@
 2018-11-04 16:56:18,059 [Worker-14: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper/9.0.12/tomcat-jasper-9.0.12-sources.jar
 2018-11-04 16:56:58,392 [Worker-23: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina/9.0.12/tomcat-catalina-9.0.12-sources.jar
 2018-11-04 16:58:31,617 [Worker-23: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina/9.0.12/tomcat-catalina-9.0.12-sources.jar
+2018-11-06 15:56:31,425 [Worker-3: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
