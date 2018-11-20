@@ -149,7 +149,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="lyyzoo-ssms-master" path="/lyyzoo-ssms-master" reloadable="true" source="org.eclipse.jst.jee.server:lyyzoo-ssms-master"/><Context docBase="web_hibernate" path="/web_hibernate" reloadable="true" source="org.eclipse.jst.jee.server:web_hibernate"/><Context docBase="jsp_demo" path="/jsp_demo" reloadable="true" source="org.eclipse.jst.jee.server:jsp_demo"/></Host>
+      <Context docBase="lyyzoo-ssms-master" path="/lyyzoo-ssms-master" reloadable="true" source="org.eclipse.jst.jee.server:lyyzoo-ssms-master"/><Context docBase="web_hibernate" path="/web_hibernate" reloadable="true" source="org.eclipse.jst.jee.server:web_hibernate"/><Context docBase="jsp_demo" path="/jsp_demo" reloadable="true" source="org.eclipse.jst.jee.server:jsp_demo"/><Context docBase="Login_demo" path="/Login_demo" reloadable="true" source="org.eclipse.jst.jee.server:Login_demo"/></Host>
     </Engine>
   </Service>
 </Server>

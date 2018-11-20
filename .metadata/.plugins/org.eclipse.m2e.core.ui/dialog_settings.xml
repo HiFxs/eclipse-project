@@ -20,11 +20,13 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="Login_demo"/>
 			<item value="lyyzoo-ssms-master"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Login_demo"/>
 			<item value="lyyzoo-ssms-master"/>
 		</list>
 		<list key="version">
